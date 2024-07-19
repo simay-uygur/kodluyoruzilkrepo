@@ -13,7 +13,7 @@ Bu repo [Kodluyoruz](https://www.kodluyoruz.org) Front-End Eğitiminde oluşturd
 
 To make the sentence copiable code text with markdown, you can use backticks (\`) to enclose the sentence. Here's an example:
 
-```console
+```
  git clone https://github.com/simay-uygur/kodluyoruzilkrepo.git
 ```
 
@@ -27,7 +27,7 @@ Projeyi cloneladıktan sonra Visual Studio Code programında açınız.
 
 Linux için:
 
-```console
+```
 cd kodluyoruzilkrepo
 code .
 ```
